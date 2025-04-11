@@ -11,7 +11,7 @@ source:
     patches:
       - sentieon_symlinks.patch
 build:
-  number: 3
+  number: 0
   skip: True  # [not linux]
   binary_relocation: false
   run_exports:
